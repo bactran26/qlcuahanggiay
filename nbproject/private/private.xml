@@ -5,6 +5,11 @@
         <group>
             <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/Utils/Config.java</file>
             <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DAL/SanPhamDAL.java</file>
+            <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DTO/ChiTietHDDTO.java</file>
+            <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DTO/KhuyenMaiDTO.java</file>
+            <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DTO/LoaiDTO.java</file>
+            <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DAL/MySQLHelper/HDSuDung.md</file>
+            <file>file:/C:/Users/OS/Documents/NetBeansProjects/App_shoes_Managerment/src/DAL/MySQLHelper/MySQLHelpers.java</file>
         </group>
     </open-files>
 </project-private>
